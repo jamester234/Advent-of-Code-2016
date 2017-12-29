@@ -5,7 +5,7 @@ Created on Mon Dec 25 14:33:06 2017
 @author: James Jiang
 """
 
-with open('Day 1 Data.txt') as f:
+with open('Data.txt') as f:
     for line in f:
         string = line
         
