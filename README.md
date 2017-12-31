@@ -10,4 +10,4 @@ All scripts are written in Python 3.6, using only built-in functions, constants,
 |---|
 |[Day 1 - No Time for a Taxicab](Day%201%20-%20No%20Time%20for%20a%20Taxicab)
 |[Day 2 - Bathroom Security](Day%202%20-%20Bathroom%20Security)
-
+|[Day 3 - Squares With Three Sides](Day%203%20-%20Squares%20with%20Three%20Sides)
