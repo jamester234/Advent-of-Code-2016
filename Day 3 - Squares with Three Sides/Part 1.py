@@ -5,7 +5,7 @@ Created on Mon Dec 25 15:16:17 2017
 @author: James Jiang
 """
 
-all_lines = [line.rstrip('\n') for line in open('Day 3 Data.txt')]
+all_lines = [line.rstrip('\n') for line in open('Data.txt')]
 
 all_triples = []
 for line in all_lines:
