@@ -13,3 +13,4 @@ All scripts are written in Python 3.6, using only built-in functions, constants,
 |[Day 3 - Squares With Three Sides](Day%203%20-%20Squares%20With%20Three%20Sides)
 |[Day 4 - Security Through Obscurity](Day%204%20-%20Security%20Through%20Obscurity)
 |[Day 5 - How About a Nice Game of Chess?](Day%205%20-%20How%20About%20a%20Nice%20Game%20of%20Chess)
+|[Day 6 - Signals and Noise](Day%206%20-%20Signals%20and%20Noise)
