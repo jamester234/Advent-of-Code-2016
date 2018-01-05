@@ -5,11 +5,8 @@ Created on Mon Dec 25 22:25:08 2017
 @author: James Jiang
 """
 
-all_lines = [line.rstrip('\n') for line in open('Day 8 Data.txt')]
-all_instructions = []
-for line in all_lines:
-    instruction = line.split(' ')
-    all_instructions.append(instruction)
+all_lines = [line.rstrip('\n') for line in open('Data.txt')]
+all_instructions = [line.split(' ') for line in all_lines]
 
 display = []
 for i in range(6):
