@@ -5,7 +5,7 @@ Created on Mon Dec 25 21:00:24 2017
 @author: James Jiang
 """
 
-all_lines = [line.rstrip('\n') for line in open('Day 7 Data.txt')]
+all_lines = [line.rstrip('\n') for line in open('Data.txt')]
 
 def has_abba(string):
     chars = [i for i in string]
