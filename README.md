@@ -17,3 +17,4 @@ All scripts are written in Python 3.6, using only built-in functions, constants,
 |[Day 7 - Internet Protocol Version 7](Day%207%20-%20Internet%20Protocol%20Version%207)
 |[Day 8 - Two-Factor Authentication](Day%208%20-%20Two-Factor%20Authentication)
 |[Day 9 - Explosives in Cyberspace](Day%209%20-%20Explosives%20in%20Cyberspace)
+|[Day 10 - Balance Bots](Day%2010%20-%20Balance%20Bots)
