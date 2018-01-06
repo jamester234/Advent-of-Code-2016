@@ -16,3 +16,4 @@ All scripts are written in Python 3.6, using only built-in functions, constants,
 |[Day 6 - Signals and Noise](Day%206%20-%20Signals%20and%20Noise)
 |[Day 7 - Internet Protocol Version 7](Day%207%20-%20Internet%20Protocol%20Version%207)
 |[Day 8 - Two-Factor Authentication](Day%208%20-%20Two-Factor%20Authentication)
+|[Day 9 - Explosives in Cyberspace](Day%209%20-%20Explosives%20in%20Cyberspace)
