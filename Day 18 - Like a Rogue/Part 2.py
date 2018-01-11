@@ -6,7 +6,7 @@ Created on Thu Dec 28 12:47:37 2017
 """
 
 string = ''
-with open('Day 18 Data.txt') as f:
+with open('Data.txt') as f:
     for line in f:
         string = line
 
