@@ -5,7 +5,7 @@ Created on Sat Dec 30 00:23:31 2017
 @author: James Jiang
 """
 
-all_lines = [line.rstrip('\n') for line in open('Day 21 Data.txt')]
+all_lines = [line.rstrip('\n') for line in open('Data.txt')]
 all_instructions = [line.split(' ') for line in all_lines]
 
 password = [i for i in 'abcdefgh']
