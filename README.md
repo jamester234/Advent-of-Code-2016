@@ -27,3 +27,4 @@ All scripts are written in Python 3.6, using only built-in functions, constants,
 |[Day 17 - Two Steps Forward](Day%2017%20-%20Two%20Steps%20Forward)
 |[Day 18 - Like a Rogue](Day%2018%20-%20Like%20a%20Rogue)
 |[Day 19 - An Elephant Named Joseph](Day%2019%20-%20An%20Elephant%20Named%20Joseph)
+|[Day 20 - Firewall Rules](Day%2020%20-%20Firewall%20Rules)
