@@ -5,7 +5,7 @@ Created on Sat Dec 30 12:16:02 2017
 @author: James Jiang
 """
 
-all_lines = [line.rstrip('\n') for line in open('Day 22 Data.txt')]
+all_lines = [line.rstrip('\n') for line in open('Data.txt')]
 
 all_nodes = []
 for line in all_lines:
