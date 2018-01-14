@@ -29,3 +29,4 @@ All scripts are written in Python 3.6, using only built-in functions, constants,
 |[Day 19 - An Elephant Named Joseph](Day%2019%20-%20An%20Elephant%20Named%20Joseph)
 |[Day 20 - Firewall Rules](Day%2020%20-%20Firewall%20Rules)
 |[Day 21 - Scrambled Letters and Hash](Day%2021%20-%20Scrambled%20Letters%20and%20Hash)
+|[Day 22 - Grid Computing](Day%2022%20-%20Grid%20Computing)
