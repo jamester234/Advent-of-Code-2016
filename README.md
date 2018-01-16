@@ -31,3 +31,4 @@ All scripts are written in Python 3.6, using only built-in functions, constants,
 |[Day 21 - Scrambled Letters and Hash](Day%2021%20-%20Scrambled%20Letters%20and%20Hash)
 |[Day 22 - Grid Computing](Day%2022%20-%20Grid%20Computing)
 |[Day 23 - Safe Cracking](Day%2023%20-%20Safe%20Cracking)
+|[Day 24 - Air Duct Spelunking](Day%2024%20-%20Air%20Duct%20Spelunking)
